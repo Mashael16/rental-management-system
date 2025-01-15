@@ -1,6 +1,0 @@
-Rental Agreement
-----------------------
-Renter Email: abdullazizalosay@gmial.com
-Vehicle: Toyota Corolla (2020)
-Price per Day: $50.0
-Agreement Terms: The renter agrees to pay all fees and return the vehicle on time.
