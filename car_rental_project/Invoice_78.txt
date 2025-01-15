@@ -1,0 +1,8 @@
+Rental Invoice
+--------------
+Rental ID: 78
+User Email: ramah@gmail.com
+Car Model: Escape
+Rental Period: 2024-12-13 to 2024-12-16
+Total Price: $2070.0
+Final Price: $2070.0

@@ -1,0 +1,7 @@
+Rental Invoice
+--------------
+Rental ID: 6
+User Email: a@gmail.com
+Vehicle ID: 11
+Rental Period: 2024-11-21 to 2024-11-25
+Final Price (including overdue fees): $380.0

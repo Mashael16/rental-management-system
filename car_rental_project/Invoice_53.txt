@@ -1,0 +1,8 @@
+Rental Invoice
+--------------
+Rental ID: 53
+User Email: ramah@gmail.com
+Car Model: Altima
+Rental Period: 2024-12-08 to 2024-12-09
+Total Price: $470.0
+Final Price: $470.0

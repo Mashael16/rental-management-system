@@ -1,0 +1,5 @@
+Rental Report
+
+Total Bookings: 8
+Total Customers: 4
+Total Sum of Total Prices: $44230.0

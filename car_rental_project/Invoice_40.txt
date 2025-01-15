@@ -1,0 +1,9 @@
+Rental Invoice
+--------------
+Rental ID: 40
+User Email: aziz@gmail.com
+Vehicle ID: 11
+Rental Period: 2024-11-29 to 2024-12-02
+Total Price: $285.0
+Fee (Overdue): $0.0
+Final Price: $285.0
