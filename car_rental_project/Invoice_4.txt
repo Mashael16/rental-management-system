@@ -1,7 +1,0 @@
-Rental Invoice
---------------
-Rental ID: 4
-User Email: abdullazizalosay@gmial.com
-Vehicle ID: 4
-Rental Period: 2024-11-19 to 2024-11-20
-Final Price (including overdue fees): $100.0
